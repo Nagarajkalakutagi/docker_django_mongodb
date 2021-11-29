@@ -1,0 +1,17 @@
+Django
+django-filter
+django-rest-auth
+djangorestframework
+Pillow
+pytz
+requests
+dateparser
+gunicorn
+daphne
+supervisor
+djangorestframework-simplejwt
+django-cors-headers
+django-storages
+boto3
+djongo
+PyJWT==2.1.0
